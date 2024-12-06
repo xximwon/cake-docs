@@ -10,5 +10,5 @@ Cake Wallet supports third-party exchange integrations for your convenience. We 
 
 ## Trocador (AnonPay)
 
-[Email](mailto:mail@trocador.app){ .md-button }
-[Telegram](https://t.me/TrocadorApp){ .md-button }
+[:octicons-mail-16: Email](mailto:mail@trocador.app){ .md-button }
+[:simple-telegram: Telegram](https://t.me/TrocadorApp){ .md-button }

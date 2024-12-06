@@ -8,6 +8,6 @@ parent: Service Support
 
 For Cake Pay Web support, please start a live chat via the chat bubble on the Cake Pay website.
 
-[Cake Pay Web](https://cakepay.com/){ .md-button } 
+[:octicons-link-16: Cake Pay Web](https://cakepay.com/){ .md-button } 
 
 
