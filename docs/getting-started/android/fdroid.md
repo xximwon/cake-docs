@@ -8,7 +8,7 @@ status: deprecated
 !!! note ""
     Official Website: [f-droid.org](https://f-droid.org){:target="_blank"}
 
-!!! warning ""
+!!! warning "Deprecation Warning"
     We have decided to deprecate our F-Droid repository (fdroid.cakelabs.com) due to some issues preventing us from updating to our latest releases.
 
 If you would like to have a direct upgrade path *without* uninstalling Cake Wallet, you can do so by setting up [Obtanium](obtanium.md).

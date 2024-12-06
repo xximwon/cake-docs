@@ -13,8 +13,7 @@ hide:
 
 # :wave: Hello!
 
-!!! note
-    
+!!! note ""
     Thanks for using Cake Wallet! Cake Wallet is open source with a permissive MIT license. Thanks for supporting open source software ❤️
 
 Cake Wallet is a non-custodial wallet for mobile and desktop devices. This means that all information about your wallet stores on your device, and you, the user, are 100% in control of your wallet and your funds.
