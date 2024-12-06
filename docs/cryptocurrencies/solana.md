@@ -9,6 +9,8 @@ icon: simple/solana
 !!! note ""
     Official Website: [solana.com](https://solana.com/){:target="_blank"}
 
+Solana `(SOL)` is a high-performance blockchain platform designed to host decentralized applications (dApps) and facilitate crypto transactions with an emphasis on speed and scalability. Launched in 2020 by Solana Labs, it uses a hybrid consensus model combining Proof of Stake (PoS) with its innovative Proof of History (PoH), enabling it to process thousands of transactions per second at a significantly lower cost than many competitors. This architecture aims to solve the blockchain trilemma of achieving decentralization, security, and scalability simultaneously, making Solana a competitive choice for DeFi, NFTs, and other blockchain-based projects.
+
 ## Addresses
 
 In Cake Wallet's Solana wallet, there is only one address per wallet, which is standard for the Solana ecosystem. Keep in mind that this will have lesser privacy compared to some other assets, where new addresses are automatically generated.

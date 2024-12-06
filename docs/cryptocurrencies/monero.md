@@ -9,7 +9,7 @@ icon: simple/monero
 !!! note ""
     Official Website: [getmonero.org](https://www.getmonero.org/){:target="_blank"}
 
-Monero is the leading cryptocurrency focused on private and censorship-resistant transactions. It is a private, decentralized cryptocurrency that keeps your finances confidential and secure.
+Monero `(XMR)` is the leading cryptocurrency focused on private and censorship-resistant transactions. It is a private, decentralized cryptocurrency that keeps your finances confidential and secure.
 
 The majority of existing cryptocurrencies, including Bitcoin and Ethereum, have transparent blockchains. Transactions can be verified and/or traced by anyone in the world. This means that the sending and receiving addresses of these transactions could potentially be linked to real-world identities.
 

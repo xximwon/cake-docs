@@ -107,35 +107,97 @@ extra:
     new: Recently added
     deprecated: Deprecated
 
+# Navigation
 nav:
 - Home: index.md
-- Cryptocurrencies:
+
+- Getting Started:
+  - Install:
+    - getting-started/index.md
+    - Android:
+      - getting-started/android/index.md
+      - getting-started/android/play-store.md
+      - getting-started/android/accrescent.md
+      - getting-started/android/obtanium.md
+    - Linux:
+      - getting-started/linux/index.md
+      - getting-started/linux/tails.md
+    - iOS / macOS: getting-started/app-store.md
+    - Windows: getting-started/windows.md
+
+  - Setup:
+    - getting-started/setup/create-first-wallet.md
+    - getting-started/setup/create-another-wallet.md
+  - Restore:
+    - getting-started/restore/restore-wallet-from-keys-or-seed.md
+    - getting-started/restore/restore-wallet-from-backup.md
+    - getting-started/restore/restore-wallet-from-qr-code.md
+    - getting-started/restore/restore-wallet-from-hardware.md
+
+- Cryptos:
   - cryptocurrencies/monero.md
   - cryptocurrencies/bitcoin.md
   - cryptocurrencies/ethereum.md
+  - cryptocurrencies/litecoin.md
+  - cryptocurrencies/bitcoin-cash.md
+  - cryptocurrencies/polygon.md
   - cryptocurrencies/solana.md
   - cryptocurrencies/tron.md
-  - cryptocurrencies/bitcoin-cash.md
-  - cryptocurrencies/litecoin.md
-  - cryptocurrencies/polygon.md
   - cryptocurrencies/nano.md
   - cryptocurrencies/wownero.md
   - cryptocurrencies/haven.md
 
-- Getting Started:
-  - "Install":
-    - getting-started/index.md
-    - "Android":
-      - getting-started/android/index.md
-      - getting-started/android/obtanium.md
-    - "Linux":
-      - getting-started/linux/index.md
-      - getting-started/linux/tails.md
-  - "Setup":
-    - getting-started/setup/create-first-wallet.md
-    - getting-started/setup/create-another-wallet.md
+- Features:
+  - Basic Features:
+    - basic-features/send-funds.md
+    - basic-features/receive-funds.md
+    - basic-features/exchange.md
+    - basic-features/create-backup.md
+  - Advanced features:
+    - advanced-features/address-book.md
+    - advanced-features/authentication.md
+    - advanced-features/change-network-fee.md
+    - advanced-features/custom-node.md
+    - advanced-features/coin-control.md
+    - advanced-features/tor-with-orbot.md
+    - advanced-features/special-address-services.md
+    - advanced-features/seed-keys.md
+    - advanced-features/send-exchange-templates.md
+    - advanced-features/disable-features.md
+
+- Cake Pay:
+  - cake-pay/index.md
+  - cake-pay/buy-gift-card.md
+  - cake-pay/faq.md
+
+- Cupcake:
+  - cupcake/index.md
+  - cupcake/setup.md
+
+- FAQ:
+  - faq/connection-issues.md
+  - faq/zero-balance.md
+  - faq/funds-not-appearing.md
+  - faq/errors.md
+
+- Tutorials:
+  - tutorials/index.md
+  - tutorials/bitcoin-paper-wallet.md
+  - tutorials/find-seed-phrase.md
+  - tutorials/mobile-hardening.md
+  - tutorials/monero-node.html
+  - tutorials/what-to-do-if-scammed.md
+
+- Support:
+  - support/index.md
+  - support/buy.md
+  - support/cake-pay.md
+  - support/exchange.md
+  - support/receive.md
+  - support/sell.md
 
 
+# Plugins
 plugins:
   - search
   - offline

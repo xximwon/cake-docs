@@ -9,8 +9,8 @@ icon: crypto/xhv
 !!! note ""
     Official Website: [havenprotocol.org](https://havenprotocol.org/){:target="_blank"}
 
-!!! warning
-    Haven in Cake Wallet is currently deprecated and wallet creation is disabled. You may use existing wallets until Haven is removed.
+!!! warning "Deprecation Warning"
+    Haven in Cake Wallet is being deprecated and wallet creation is disabled. You may use existing wallets until Haven is removed.
 
 ## Syncing
 

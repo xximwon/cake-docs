@@ -9,7 +9,7 @@ icon: crypto/wow
 !!! note ""
     Official Website: [wownero.org](https://wownero.org/){:target="_blank"}
 
-Wownero is a Doge-inspired, CPU-mineable, solo-mining only, privacy-respecting memecoin. It is a software fork of Monero, but with a lite version of RandomX, larger ring size, and a fixed supply of 184 million coins emitted over 50 years.
+Wownero `(WOW)` is a Doge-inspired, CPU-mineable, solo-mining only, privacy-respecting memecoin. It is a software fork of Monero, but with a lite version of RandomX, larger ring size, and a fixed supply of 184 million coins emitted over 50 years.
 
 ## Usage
 

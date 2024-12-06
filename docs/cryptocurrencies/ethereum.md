@@ -8,7 +8,7 @@ icon: simple/ethereum
 !!! note ""
     Official Website: [ethereum.org](https://ethereum.org/){:target="_blank"}
 
-Ethereum is a decentralized, open-source blockchain that enables smart contracts. Unlike Bitcoin, which is primarily a digital currency, Ethereum provides a more versatile platform allowing developers to build various types of decentralized applications (dApps), and supports token standards such as ERC-20.
+Ethereum `(ETH)` is a decentralized, open-source blockchain that enables smart contracts. Unlike Bitcoin, which is primarily a digital currency, Ethereum provides a more versatile platform allowing developers to build various types of decentralized applications (dApps), and supports token standards such as ERC-20.
 
 ## Addresses
 

@@ -9,6 +9,8 @@ icon: crypto/trx
 !!! note ""
     Official Website: [tron.network](https://tron.network/){:target="_blank"}
 
+Tron `(TRX`)` is a blockchain-based digital platform aimed at decentralizing the entertainment industry by allowing content creators to publish, store, and own data in a decentralized ecosystem. Founded by Justin Sun in 2017, Tron leverages its own cryptocurrency, TRX, for transactions within its ecosystem. The platform seeks to empower creators by cutting out middlemen, ensuring fair distribution of earnings through smart contracts, and providing high scalability and throughput for content sharing and digital asset transfers.
+
 ## Addresses
 
 In Cake Wallet's Tron wallet, there is only one address per wallet, which is standard for the Tron ecosystem. Keep in mind that this will have lesser privacy compared to some other assets, where new addresses are automatically generated.

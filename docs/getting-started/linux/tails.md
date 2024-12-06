@@ -20,13 +20,13 @@ Open the Tor Browser, go to `https://github.com/cake-tech/cake_wallet/releases/`
 
 The download will be stored at `/home/amnesia/Tor Browser`. Click the Download icon on the top-right, then click the `Open in Folder` icon to access the download folder.
 
-[![Open In Folder](./image.png){:width=75%"}](./image.png)
+![Open In Folder](./tails/image.png){:width=75%"}
 
 Extract the Cake_wallet.tar.xz into the Persistent volume at `/home/amnesia/Persistent`.
 
 Example video for extracting the Cake Wallet files into a custom `cake_wallet` Persistent directory.
 
-<iframe width="480" height="360" src="./extract.webm" frameborder="0"> </iframe>
+<iframe width="480" height="360" src="./tails/extract.webm" frameborder="0"> </iframe>
 
 ## Running
 
@@ -34,7 +34,7 @@ Open the `cake_wallet` folder (or whichever extracted folder has the cake_wallet
 
 Right-click on a blank area and click `Open in Terminal`.
 
-[![Open in Terminal](./image2.png){:width=75%"}](./image2.png)
+![Open in Terminal](./tails/image2.png){:width=75%"}
 
 Run Cake Wallet using this command.
 
@@ -44,7 +44,7 @@ This will place the wallets under `/home/amnesia/Persistent/cake_wallet/wallets`
 
 You can change the `CAKE_WALLET_DIR` and `XDG_DATA_HOME` to any other directory, as long as they are somewhere in your Persistent volume!
 
-[![Run Cake Wallet](./image3.png){:width=75%"}](./image3.png)
+![Run Cake Wallet](./tails/image3.png){:width=75%"}
 
 ## Future Use
 

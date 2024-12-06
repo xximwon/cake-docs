@@ -9,7 +9,7 @@ icon: simple/polygon
 !!! note ""
     Official Website: [polygon.technology](https://polygon.technology/){:target="_blank"}
 
-Polygon is a Layer-2 network for Ethereum that is designed to support a much higher TPS (transactions per second) while having lower fees, along with some privacy enhancements.
+Polygon `(MATIC)` is a Layer-2 network for Ethereum that is designed to support a much higher TPS (transactions per second) while having lower fees, along with some privacy enhancements.
 
 ## Addresses
 
