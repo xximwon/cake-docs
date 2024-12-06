@@ -4,7 +4,10 @@
 
 Cake Wallet is available on Android, iOS, macOS, Linux, and Windows platforms.
 
-Please view the available options in the navigation bar to download.
+[:simple-android: Android](/getting-started/android/index.html){ .md-button }
+[:simple-apple: iOS / macOS](/getting-started/app-store.html){ .md-button }
+[:simple-linux: Linux](/getting-started/linux/index.html){ .md-button }
+[:material-microsoft-windows: Windows](/getting-started/windows.html){ .md-button }
 
 ## Setup
 
