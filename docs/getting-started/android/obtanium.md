@@ -1,13 +1,12 @@
 ---
-title: "Obtanium"
-parent: Android
 icon: icons/obtanium
+status: new
 ---
 
 # :icons-obtanium: Obtanium
 
 !!! note ""
-    Official Website: [https://obtainium.imranr.dev/](https://obtainium.imranr.dev/){:target="_blank"}
+    Official Website: [obtainium.imranr.dev](https://obtainium.imranr.dev/){:target="_blank"}
 
 Obtanium is an Android app that helps install and update apps directly from various sources.
 

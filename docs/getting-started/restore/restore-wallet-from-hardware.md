@@ -3,7 +3,7 @@ title: "Hardware wallet"
 parent: Basic Features
 ---
 
-# Restore account from hardware wallet
+# Restore wallet from hardware
 
 !!! note
     Currently, we only support restoring from Ledger devices, with support for more devices coming soon.

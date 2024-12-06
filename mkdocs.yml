@@ -40,6 +40,8 @@ theme:
     - navigation.instant.progress
     - navigation.top
     - navigation.sections
+    - search.suggest
+    - search.share
 
 # Extensions
 markdown_extensions:
@@ -112,13 +114,14 @@ nav:
 - Home: index.md
 
 - Getting Started:
+  - getting-started/index.md
   - Install:
-    - getting-started/index.md
     - Android:
       - getting-started/android/index.md
-      - getting-started/android/play-store.md
+      - getting-started/android/google-play.md
       - getting-started/android/accrescent.md
       - getting-started/android/obtanium.md
+      - getting-started/android/fdroid.md
     - Linux:
       - getting-started/linux/index.md
       - getting-started/linux/tails.md
@@ -185,7 +188,7 @@ nav:
   - tutorials/bitcoin-paper-wallet.md
   - tutorials/find-seed-phrase.md
   - tutorials/mobile-hardening.md
-  - tutorials/monero-node.html
+  - Setup a monero node: https://guides.monero.com/docs/tutorials/monero-node/
   - tutorials/what-to-do-if-scammed.md
 
 - Support:
@@ -196,10 +199,15 @@ nav:
   - support/receive.md
   - support/sell.md
 
+- Status: status/index.md
+
+- cakewallet.com: website/index.md
+
 
 # Plugins
 plugins:
   - search
   - offline
   - glightbox
-
+  # - git-revision-date-localized:
+  #     enable_creation_date: true

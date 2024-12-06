@@ -3,7 +3,7 @@ title: "Backup file"
 parent: Basic Features
 ---
 
-# Restore/recover a wallet from backup file
+# Restore wallet from backup file
 
 To create a backup file, [click here](/docs/basic-features/create-backup)
 

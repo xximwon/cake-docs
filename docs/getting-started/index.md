@@ -1,14 +1,15 @@
----
----
-# :octicons-download-24: Install
+# Getting Started
 
-## Installing Cake Wallet
+## :octicons-download-24: Installing Cake Wallet
 
-Don't have Cake Wallet yet? Download it today!
+Cake Wallet is available on Android, iOS, macOS, Linux, and Windows platforms.
 
-[iOS / MacOS](https://apps.apple.com/us/app/cake-wallet-for-xmr-monero/id1334702542){ .md-button }
-[Google Play](https://play.google.com/store/apps/details?id=com.cakewallet.cake_wallet&referrer=utm_source%3Dguides.cakewallet.com%26utm_medium%3Dwebsite){ .md-button }
-[Accrescent](https://accrescent.app/app/com.cakewallet.cake_wallet){ .md-button }
-[Android APK](https://github.com/cake-tech/cake_wallet/releases){ .md-button }
-[Linux](https://github.com/cake-tech/cake_wallet/releases){ .md-button }
-[Windows](https://github.com/cake-tech/cake_wallet/releases){ .md-button }
+Please view the available options in the navigation bar to download.
+
+## Setup
+
+Once you've successfully installed Cake Wallet, you can coninue to [Create your first wallet](./setup/create-first-wallet.md) or [Restore your wallet](./restore/restore-wallet-from-keys-or-seed.md) if you want to import an existing crypto wallet.
+
+## Have fun!
+
+After setup for further guidance, feel free to take a look at the [features](../basic-features/send-funds.md), check out what [cryptocurrencies](../cryptocurrencies/monero.md) we support, or look at the [FAQ](../faq/connection-issues.md).

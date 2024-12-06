@@ -1,5 +1,5 @@
 ---
-title: Play Store
+title: Google Play
 icon: material/google-play
 ---
 

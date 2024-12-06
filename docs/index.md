@@ -1,9 +1,8 @@
 ---
-title: Home
+icon: octicons/home-16
 hide:
-  - toc
-  - navigation
-glightbox: true
+    - toc 
+    - navigation
 ---
 
 ![Cake Wallet](./index/cw.png){ width="50%" align=left }

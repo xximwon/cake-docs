@@ -1,6 +1,6 @@
 ---
-title: "Accrescent"
 icon: icons/accrescent
+status: new
 ---
 
 # :icons-accrescent: Accrescent
