@@ -1,7 +1,7 @@
 ---
-title: "Cryptos"
-has_children: true
-nav_order: 3
+icon: fontawesome/solid/bitcoin-sign
 ---
 
-# Supported Cryptocurrencies
+# :fontawesome-solid-bitcoin-sign: Cryptos
+
+<meta http-equiv="Refresh" content="0; url='/cryptocurrencies/monero.html'" />

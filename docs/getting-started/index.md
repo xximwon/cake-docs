@@ -1,4 +1,7 @@
-# Getting Started
+---
+icon: material/arrow-right
+---
+# :material-arrow-right: Get Started
 
 ## :octicons-download-24: Installing Cake Wallet
 

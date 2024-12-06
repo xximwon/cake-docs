@@ -1,4 +1,7 @@
-# Cupcake
+---
+icon: icons/cupcake-light
+---
+# :icons-cupcake-light: Cupcake
 
 !!! note ""
     Cupcake is currently in **BETA** and is not recommended unless you know are familiar with air-gapped wallets and can self-troubleshoot.

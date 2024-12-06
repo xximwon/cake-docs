@@ -122,7 +122,7 @@ extra:
 nav:
 - Home: index.md
 
-- Getting Started:
+- Get Started:
   - getting-started/index.md
   - Install:
     - Android:
@@ -147,6 +147,7 @@ nav:
     - getting-started/restore/restore-wallet-from-hardware.md
 
 - Cryptos:
+  - cryptocurrencies/index.md
   - cryptocurrencies/monero.md
   - cryptocurrencies/bitcoin.md
   - cryptocurrencies/ethereum.md
@@ -160,6 +161,7 @@ nav:
   - cryptocurrencies/haven.md
 
 - Features:
+  - features/index.md
   - Basic Features:
     - basic-features/send-funds.md
     - basic-features/receive-funds.md
@@ -187,6 +189,7 @@ nav:
   - cupcake/setup.md
 
 - FAQ:
+  - faq/index.md
   - faq/connection-issues.md
   - faq/zero-balance.md
   - faq/funds-not-appearing.md
@@ -208,9 +211,9 @@ nav:
   - support/receive.md
   - support/sell.md
 
-- Status: status/index.md
+# - Status: status/index.md
 
-- cakewallet.com: website/index.md
+# - cakewallet.com: website/index.md
 
 
 # Plugins

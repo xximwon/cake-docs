@@ -1,10 +1,8 @@
 ---
-title: "Cake Pay"
-has_children: true
-nav_order: 4
+icon: octicons/credit-card-16
 ---
 
-# Cake Pay
+# :octicons-credit-card-16: Cake Pay
 
 ![Mobile](./cake-pay/cakepay-mobile.png){:width="20%"}
 ![Web](./cake-pay/cakepay-web.png){:width="70%"}

@@ -1,7 +1,7 @@
 ---
-title: "Tutorials"
+icon: material/file-document-multiple-outline
 ---
 
-# Tutorials
+# :material-file-document-multiple-outline: Tutorials
 
 We include several tutorials here to assist with some common uses of Cake Wallet.
